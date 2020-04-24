@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578781079 source:c:\users\daniel_garkavy_2\desktop\mein ordner\dateien\emulation&programming\codeblocks\whileloop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
