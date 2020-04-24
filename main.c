@@ -3,10 +3,10 @@
 #include <unistd.h>
 
 //simples Testprogramm fuer GitHub/GitLab: Ich Teste die Versionierung, indem ich kleine Changes branche
-//Aufgabe 1.: Version 1.0 erstellen und files adden
-//Aufgabe 2.: Local Repo Commiten
-//Aufgabe 3.: Remote Repo Push
-//Aufgabe 4.: Branch erstellen
+//Aufgabe 1.: main.c verändern innnerhalb der neuen Branch
+//Aufgabe 2.: git add; git commit; git push machen
+//Aufgabe 3.: ein pull request machen
+//Aufgabe 4.: Neue Datei einfügen und mergen
 
 int main(){
     int y, x, i;
@@ -18,7 +18,7 @@ int main(){
 
     while(x < 5){
 
-        x = x + 1;
+        x++;			//Increment Function, statt x = x + 1;
         y = y * y + x;
 
             printf("Loop %d:    Integer Y ist = %d:", x, y);
