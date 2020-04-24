@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-//simples Testprogramm fuer GitHub/GitLab: Ich Teste die Versionierung, indem ich kleine Changes branche
+//CHANGE: INCREMENT FUNKTION HINZUGEFUEGT, STATT x = x + 1
 //Aufgabe 1.: main.c verändern innnerhalb der neuen Branch
 //Aufgabe 2.: git add; git commit; git push machen
 //Aufgabe 3.: ein pull request machen
